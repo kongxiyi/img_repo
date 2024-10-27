@@ -1,2 +1,2 @@
 # img_repo
-img图床
+图床
